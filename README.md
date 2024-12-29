@@ -40,15 +40,17 @@ Now we will do Data Transformation with the help of PowerQuery.
 a. Now we have modelled the data on the basis of Fact and Dimension Table.
 
    Facts: These are the parameters. Store quantitative data for analysis, Contains Primary Key, surrounded by Dimension table. {Batting and Bowling Summary}
+   
    Dimension: These are the attributes. Descriptive attributes that provide context for the Fact tables. {Match summary and Players information}
    
 b. Now we will match the Star schema One to many(*).
 
-Dax Measures: For Dashboard making
+**Dax Measures**: For Dashboard making
 
 Now I have created 14 measures and 2 Calculated columns these will helpus in dashboard making.
 
 **Key Measures**:
+
 Total Runs
 Total Innings Batted
 Total Innings Dismissed
@@ -66,6 +68,7 @@ Bowling Strike Rate
 Bowling Average
 
 **Calculated columns**
+
 Boundary runs
 Boundary runs bowling
 Custom Batting Order
