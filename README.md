@@ -59,7 +59,7 @@ b. Now we will match the Star schema One to many(*).
 
 Now I have created 14 measures and 2 Calculated columns these will helpus in dashboard making.
 
-**Key Measures**:
+**Bating Key Measures**:
 
 Total Runs
 
@@ -78,6 +78,8 @@ Batting Position
 Boundary %
 
 Avg. balls Faced
+
+**Bowling Key Measure:**
 
 Wickets
 
