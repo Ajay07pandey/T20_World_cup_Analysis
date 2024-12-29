@@ -10,7 +10,7 @@ Data Modeling - Now with the help of DAX we have Modeled the data and Build para
 
 Dashboard - Building Dashboards and insight collection.
 
-The Data set I have downloaded from Kaggle having 4 Datasets.
+The Data I have downloaded from Kaggle having 4 Datasets.
 
 Data Transformation (Power Query)
 
