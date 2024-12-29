@@ -17,21 +17,26 @@ Now we will do Data Transformation with the help of PowerQuery. If we directly j
       consistency in names.
    c. In the Add Column tab under From Text group use the Extract Text before delimeter fuction to remove the unwanted characters.
    d. Then Trim it and remove duplicates values as these may affect our analysis.
-2. **Match Summary**
+   
+3. **Match Summary**
    a. Applied all the basic operations for data cleaning from removing null values to removing duplicate values and changing the column Data types.
    b. Now we have created the new column named as **Stage** to bifercate rows based on its stage. i.e Super12 or Qualifier.
-3. **Bowling summary**
+   
+5. **Bowling summary**
    a. Given relevent column names, like o's = Zeros, 1's = Ones and so on.
    b. Created a column named Balls from Overs column. (How many balls he has bowled)
    c. Renamed out/Not out column and replaced 2 text values into binary as it will help us during analysis.
-4. **Batting Summary**
+   
+7. **Batting Summary**
    a. All the basic cleaning and renaming steps including changing DataTypes.
 
 **Data Modeling**:
 
 a. Now we have modelled the data on the basis of Fact and Dimension Table.
+
    Facts: These are the parameters. Store quantitative data for analysis, Contains Primary Key, surrounded by Dimension table. {Batting and Bowling Summary}
    Dimension: These are the attributes. Descriptive attributes that provide context for the Fact tables. {Match summary and Players information}
+   
 b. Now we will match the Star schema One to many(*).
 
 Dax Measures: For Dashboard making
