@@ -12,7 +12,9 @@ Dashboard - Building Dashboards and insight collection.
 
 The Data set I have downloaded from Kaggle having 4 Datasets.
 
-Now we will do Data Transformation with the help of PowerQuery. If we directly jumped into the dataset we will find errors later on and we have to again transform the data.
+Data Transformation (Power Query)
+
+Now we will do Data Transformation with the help of PowerQuery.
 
 1. **Players with Images**:
    a. This comprises information related to Players eg. Match Name, Batsman Name, Batting position, RUN, Out, NOT Out, 6s and 4s, Strike Rate, Out or not.
