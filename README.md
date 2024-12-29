@@ -2,9 +2,12 @@
 
 Have done Data analysis in 4 steps:
 
-Data Extraction - From scraping. 
+Data Extraction - From scraping.
+
 Data Transformation - We transformed the data using PowerQuery.
+
 Data Modeling - Now with the help of DAX we have Modeled the data and Build parameters.
+
 Dashboard - Building Dashboards and insight collection.
 
 The Data set I have downloaded from Kaggle having 4 Datasets.
