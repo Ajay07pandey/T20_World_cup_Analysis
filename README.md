@@ -62,23 +62,39 @@ Now I have created 14 measures and 2 Calculated columns these will helpus in das
 **Key Measures**:
 
 Total Runs
+
 Total Innings Batted
+
 Total Innings Dismissed
+
 Batting Average
+
 Total balls Faced
+
 Strike Rate
+
 Batting Position
+
 Boundary %
+
 Avg. balls Faced
+
 Wickets
+
 balls Bowled
+
 Runs Conceded
+
 Bowling Economy
+
 Bowling Strike Rate
+
 Bowling Average
 
 **Calculated columns**
 
 Boundary runs
+
 Boundary runs bowling
+
 Custom Batting Order
