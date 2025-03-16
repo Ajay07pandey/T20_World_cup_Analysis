@@ -1,8 +1,6 @@
 # T20_World_cup_Analysis
 
-Have done Data analysis in 4 steps:
-
-Data Extraction - From scraping.
+Have done Data analysis in 3 steps:
 
 Data Transformation - We transformed the data using PowerQuery.
 
